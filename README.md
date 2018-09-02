@@ -1,13 +1,16 @@
-<style>
-@import 'https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,500,500i,700,700i&subset=latin-ext';
-@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:300,400&subset=latin-ext';
-@import 'https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css';
+<link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,500,500i,700,700i&subset=latin-ext" rel="stylesheet" type="txt/css">
+
+<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400&subset=latin-ext" rel="stylesheet" type="text/css">
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css" rel="stylesheet" type="text/css">
+
+<style type="txt/css">
 
 :root {
     font-size: 20px;
 }
 
-body { /* TEXT PARENT */
+body {
     width: 35em;
     margin: 0 auto;
     font-family: "Fira Sans", "Verdana", "Geneva", sans-serif;
@@ -368,16 +371,6 @@ hr {
     border-bottom: 1px solid rgba(0,0,0,1);
     margin: 2rem auto;
 }
-
-/*hr::after {
-    content: "* *";
-    display: block;
-    position: relative;
-    bottom: 1.5em;
-    margin: 0 auto;
-    text-align: center;
-    font-size: 2rem;
-}*/
 
 </style>
 
