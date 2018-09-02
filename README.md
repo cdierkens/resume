@@ -1,7 +1,7 @@
 # Christopher Dierkens
 513-641-8771
 
-<cjdierkens@gmail.com>
+cjdierkens@gmail.com
 
 # EXPERIENCE
 

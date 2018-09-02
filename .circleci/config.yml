@@ -1,0 +1,14 @@
+version: 2
+
+jobs:
+  
+  build:
+    docker:
+      - image: circleci/node:carbon
+    steps:
+      - checkout
+      - run: 
+        - npm install
+        - npm run build
+        - npm run deploy
+        

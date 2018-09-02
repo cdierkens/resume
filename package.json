@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "description": "Resume of Christopher Dierkens",
+  "scripts": {
+    "prebuild": "mkdirp dist",
+    "build": "showdown makehtml -i README.md -o dist/index.html",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdierkens/resume.git"
+  },
+  "author": "Christopher Dierkens <cjdierkens@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/cdierkens/resume/issues"
+  },
+  "homepage": "https://github.com/cdierkens/resume#readme",
+  "devDependencies": {
+    "gh-pages": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "showdown": "^1.8.6"
+  }
+}
