@@ -7,7 +7,7 @@ jobs:
       - image: circleci/node:carbon
     steps:
       - checkout
-      - run: npm install
+      - run: npm ci
       - run: npm run build
       - run: npm run deploy
         
