@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Resume of Christopher Dierkens",
   "scripts": {
-    "prebuild": "mkdirp dist",
-    "build": "showdown makehtml -i README.md -o dist/index.html",
+    "prebuild": "mkdirp build",
+    "build": "showdown makehtml -i README.md -o build/index.html",
     "deploy": "node scripts/deploy.js"
   },
   "repository": {
