@@ -1,29 +1,11 @@
+# Christopher Dierkens
+513-641-8771
 
-
-
-Skip to content
-Using Gmail with screen readers
-
-Conversations
-
-Unread
- 
-1–25 of 2,598
- 
-
-Everything else
- 
-1–50 of 7,770
- 
-4.7 GB (31%) of 15 GB used
-Manage
-Terms · Privacy · Program Policies
-Last account activity: 0 minutes ago
-Details
+<cjdierkens@gmail.com>
 
 # EXPERIENCE
 
-## **Victoria’s Secret** | Reynoldsburg, OH | *2015 - 2018*
+## Victoria’s Secret | Reynoldsburg, OH | *2015 - 2018*
 
 ### FRONT END WEB ARCHITECT – *August 2018 - Present*
 
@@ -71,7 +53,7 @@ Details
 
 * Update and maintain Product Detail Page for[ victoriassecret.com](http://victoriassecret.com), managed by Jira ticketing system.
 
-## **Five Visual** | Mason, OH
+## Five Visual | Mason, OH
 
 ### WEB DEVELOPER – *October 2013 - February 2015*
 
@@ -89,7 +71,7 @@ Details
 
 * Integrated Drees Community data with Google Maps API v3 to display on site directions, amenities, and nearby attractions.
 
-## **K & R Software** | Cincinnati, OH
+## K & R Software | Cincinnati, OH
 
 ### WEB DEVELOPER – *April 2014 - August 2014*
 
@@ -97,9 +79,9 @@ Details
 
 * Added features to Ruby on Rails, JavaScript, HTML5 video survey web application.
 
-## **Kinetic-Vision **| Cincinnati, OH
+## Kinetic-Vision | Cincinnati, OH
 
-### SOFTWARE DEVELOPER –* **March 2009 - October 2013*
+### SOFTWARE DEVELOPER - *March 2009 - October 2013*
 
 * Added features to Qt (Python) driven conveyor belt simulation software.
 
@@ -117,21 +99,21 @@ Details
 
 # SKILLS
 
-Technical
+## Technical
 
-LANGUAGES
+### LANGUAGES
 JavaScript, HTML, CSS, PHP, BASH, Ruby, Python
 
-FRAMEWORKS AND LIBRARIES
+### FRAMEWORKS AND LIBRARIES
 Underwire, Redux, jQuery, Lodash (lodash/fp), React, Vue, Mocha, AngularJS, Ruby on Rails
 
-### SOFTWARE
+#### SOFTWARE
 Jira, Git, Webpack, Babel, Jenkins, Bamboo
 
-### PLATFORMS
+#### PLATFORMS
 Firebase, Heroku, Sauce Labs, WordPress, Business Catalyst
 
-### OPERATING SYSTEMS
+#### OPERATING SYSTEMS
 Linux, Mac OS X
 
 ## Leadership
@@ -146,7 +128,7 @@ Linux, Mac OS X
 
 # ACTIVITIES AWARDS
 
-## **Programming Competition** | Pittsburgh, PA** **
+## Programming Competition | Pittsburgh, PA
 Carnegie Mellon Invitational Programming Contest (2011)
 
 ## College of Applied Science Honors Program
@@ -160,6 +142,3 @@ Carnegie Mellon Invitational Programming Contest (2011)
 College of Education, Criminal Justice, and Human Services.
 
 Bachelor of Science in Information Technology
-
-Resume.md
-Displaying Resume.md.
