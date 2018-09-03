@@ -4,7 +4,7 @@
   "description": "Resume of Christopher Dierkens",
   "scripts": {
     "prebuild": "rimraf build && mkdirp build",
-    "build": "cp -r static/* build && showdown makehtml -i README.md -o build/index.html",
+    "build": "node scripts/build.js",
     "watch": "npm-watch",
     "start": "http-server build",
     "deploy": "node scripts/deploy.js"
@@ -12,9 +12,9 @@
   "watch": {
     "build": {
       "patterns": [
-          "README.md",
-          "static"
-        ],
+        "README.md",
+        "static"
+      ],
       "extensions": "css"
     }
   },
@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/cdierkens/resume#readme",
   "devDependencies": {
+    "fs-extra": "^7.0.0",
     "gh-pages": "^1.2.0",
     "mkdirp": "^0.5.1",
     "npm-watch": "^0.3.0",
