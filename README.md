@@ -2,6 +2,8 @@
 
 Follow the links below to view my resume [online](https://docs.google.com/document/d/1rcT7cf8rWmlQQSrGOajhnz_63m0hdpK5ljYUmVNYBio/edit) or [download](https://docs.google.com/document/export?id=1rcT7cf8rWmlQQSrGOajhnz_63m0hdpK5ljYUmVNYBio&format=pdf) the format of your choice.
 
+Add me on [LinkedIn](https://www.linkedin.com/in/cjdierkens/).
+
 ## View
 
 [Google Document](https://docs.google.com/document/d/1rcT7cf8rWmlQQSrGOajhnz_63m0hdpK5ljYUmVNYBio/edit)
