@@ -16,7 +16,7 @@ const options = {
 fs.mkdirSync('build/.circleci');
 fs.writeFileSync('build/.circleci/config.yml', `version: 2
 jobs:
-build:
+  build:
     machine: true
     steps:
     - run: echo "Skipping tests on gh-pages branch"
