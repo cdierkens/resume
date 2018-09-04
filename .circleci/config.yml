@@ -4,4 +4,3 @@ build:
     machine: true
     steps:
     - run: echo "Skipping tests on gh-pages branch"
-
